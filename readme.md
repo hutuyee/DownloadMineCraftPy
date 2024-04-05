@@ -7,7 +7,7 @@ DaZiDian(原作者) QQ: 2489043224
 
 ## 特别鸣谢
 
-[原创](https://github.com/DaZiDian/getMinecraftPython "原作者")
+原创: [DaZiDian-getMinecraftPython](https://github.com/DaZiDian/getMinecraftPython "原作者")
 
 
 ## 编译脚本:
