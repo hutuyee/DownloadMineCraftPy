@@ -1,4 +1,6 @@
 # 使用 Python 脚本 获取 Minecraft 官方源中的文件
+## 作者:
+    H_aaa
 
 ## 依赖安装：
 
